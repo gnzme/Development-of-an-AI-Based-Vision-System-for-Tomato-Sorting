@@ -1,4 +1,4 @@
-# Development-of-an-AI-Based-Vision-System-for-Tomato-Sorting
+# Development-of-an-AI-Based-Vision-System-for-Tomato-Sorting-In-Chile
 
 1. Main Objective: The main objective of this project is to develop an automated vision system using artificial intelligence to improve the efficiency and accuracy of sorting tomatoes based on their ripeness. The specific problem addressed is the need for a cost-effective and reliable method to assist small and medium-sized agricultural enterprises in improving their product quality and operational efficiency.
 
@@ -23,3 +23,20 @@ Practical knowledge of integrating hardware components with AI systems
 
 Project Outcomes: The project successfully developed a prototype system capable of accurately sorting tomatoes based on their ripeness. The AI model demonstrated high precision in image recognition tasks, significantly improving the efficiency of the sorting process. Additionally, according to our theoretical calculations, the integration of an energy efficient system guarantees sustainable operation.
 
+---------------------------------------------------------------
+| Category                              | Value                  |
+---------------------------------------------------------------
+| Energy Consumption of the System      | 1.6472 kWh per hour    |
+---------------------------------------------------------------
+| Energy Generation by the Dynamo       | 1 kWh per hour         |
+---------------------------------------------------------------
+| Rectifier Efficiency                  | 81.2%                  |
+---------------------------------------------------------------
+| Energy Converted and Stored           | 0.812 kWh (after rectification) |
+---------------------------------------------------------------
+| Battery Storage Efficiency            | 90%                    |
+---------------------------------------------------------------
+| Energy Effectively Stored             | 0.7308 kWh (after battery storage) |
+---------------------------------------------------------------
+| Overall System Efficiency             | 44.36%                 |
+---------------------------------------------------------------
