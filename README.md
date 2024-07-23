@@ -40,3 +40,5 @@ Project Outcomes: The project successfully developed a prototype system capable 
 ---------------------------------------------------------------
 | Overall System Efficiency             | 44.36%                 |
 ---------------------------------------------------------------
+
+Project developed by Gonzalo Medina & Yohan Natera -  December 2023
